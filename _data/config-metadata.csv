@@ -5,9 +5,10 @@ date,Date Created,
 description,Description,
 transcription,Transcription
 subject,Subjects,true
-location,Location
+location,Postmark Location
 latitude,Latitude
 longitude,Longitude
+destination,Destination,
 source,Source
 identifier,Source Identifier,,
 type,Type,
